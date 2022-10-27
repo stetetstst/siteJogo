@@ -1,0 +1,18 @@
+.container-fluid{
+    background: rgb(59, 166, 59) !important;
+    box-shadow: 4px 4px 4px 2px rgb(23, 123, 23) !important;
+}
+
+body {
+    background-color: rgb(185, 132, 242) !important;
+  }
+
+footer{
+    background: rgb(59, 166, 59) !important;
+    border-top: 1px solid rgb(23, 123, 23);
+    padding: 5px 0;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
